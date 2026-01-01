@@ -1,10 +1,20 @@
 [
   {
+    "id": 1,
     "artist": "Metallica",
     "title": "Master of Puppets",
     "purchasedDate": "2025-12-30",
     "priceNok": 469,
     "store": "Hifi Klubben Tromsø",
     "comment": "180 grams of heavy metal. Cannot kill the battery!"
+  },
+  {
+    "id": 2,
+    "artist": "Mastodon",
+    "title": "Crack the Skye (15th Anniversary Edition)",
+    "purchasedDate": "2025-11-05",
+    "priceNok": 463.20,
+    "store": "Big Dipper",
+    "comment": "Blue discs. Limited edition."
   }
 ]
